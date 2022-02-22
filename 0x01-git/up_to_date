@@ -1,0 +1,4 @@
+git branch updte_script
+git push -u origin update_script
+git checkout master or origin
+git pull --rebase origin
